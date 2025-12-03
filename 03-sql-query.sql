@@ -1,0 +1,1 @@
+create table location (lcode int(9), name varchar(30));

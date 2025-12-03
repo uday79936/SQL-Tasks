@@ -1,0 +1,1 @@
+create table job (jcode int(9), name varchar(20));

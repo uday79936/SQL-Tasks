@@ -1,0 +1,1 @@
+ insert into candidate (name, mobile_number) values ("ram", 123456789);

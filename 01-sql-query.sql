@@ -1,0 +1,1 @@
+create table candidate (name varchar(30), mobile_number float(10));
